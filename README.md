@@ -23,7 +23,38 @@ Object-Oriented Design in Smart Healthcare Systems
 - Association
 - Aggregation
 - Composition
-- Implements (used because the installed Umbrello version did not provide the Generalization tool)
 
 ## Author
+
 Tejaswi Srinivasa Kumar
+
+---
+
+# University Management System
+
+## Project Title
+Modeling Object Relationships in a University Management System
+
+## Tool Used
+- Umbrello UML Modeller
+
+## Files
+- UniversityManagement.xmi – Umbrello project file
+- UniversityManagement.png – UML Class Diagram
+
+## Classes
+- Student
+- Faculty
+- Department
+- Course
+
+## Relationships
+- Association
+- Aggregation
+- Composition
+
+## Multiplicities
+- Department (1) ◇── (*) Faculty
+- Department (1) ◆── (*) Course
+- Faculty (1) ── (*) Course
+- Student (*) ── (*) Course
