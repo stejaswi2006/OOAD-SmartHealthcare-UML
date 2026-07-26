@@ -1,8 +1,12 @@
-# OOAD – Smart Healthcare UML
+# OOAD UML Diagrams
 
-## Project Title
-Object-Oriented Design in Smart Healthcare Systems
+## Repository Description
 
+This repository contains UML diagrams created for the Object-Oriented Analysis and Design (OOAD) course using Umbrello UML Modeller.
+
+Projects included:
+- Smart Healthcare System
+- University Management System
 ## Tool Used
 - Umbrello UML Modeller
 
